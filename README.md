@@ -29,7 +29,8 @@ ESP8266单片机WiFi 多信标帧广播克隆程序。/ESP8266 microcontroller's
 30 秒自动重启机制，防止系统卡死
 使用 ESP.restart() 确保程序持续运行
 ### 硬件需求
-主控芯片：ESP8266（如 NodeMCU、Wemos D1 mini）
-连接：GPIO 2 连接 LED（用于状态指示）
+主控芯片：ESP8266（如 NodeMCU、Wemos D1 mini）  
+连接：GPIO 2 连接 LED（用于状态指示）  
+支持2.4g 无线WiFi模块  
 ## 许可证
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
