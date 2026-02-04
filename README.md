@@ -6,10 +6,10 @@ ESP8266单片机WiFi 多信标帧广播克隆程序。/ESP8266 microcontroller's
 | WiFi Beacon.c  <-- .C源文件  
 | WiFi_Beacon.mix  <-- Mixly(米思奇)保存后源文件  
 ## 部署流程
-打开你的Arudino IDE或者Mixly、其他IDE
-1.打开.c/.mixly文件
-2.对程序进行编译(如果是Arduino IDE可省去)
-3.确保微控制器连接到电脑，上传到你的ESP 8266
+打开你的Arudino IDE或者Mixly、其他IDE  
+1.打开.c/.mixly文件  
+2.对程序进行编译(如果是Arduino IDE可省去)  
+3.确保微控制器连接到电脑，上传到你的ESP 8266  
 ## 程序概括
 这是一个基于 ESP8266 微控制器的 WiFi 信号发射程序，用于模拟各种常见类型的 WiFi 热点（AP），并定期更换网络名称（SSID）。
 ### 功能特性
