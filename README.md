@@ -16,10 +16,10 @@ ESP8266单片机WiFi 多信标帧广播克隆程序。/ESP8266 microcontroller's
 #### 1. SSID 模拟
 | 模拟多种常见 WiFi 网络类型 |
 | --- | --- |
-|家用路由器 | TP-LINK、Xiaomi、HUAWEI |
-|个人热点 | MiFi、DESKTOP、WIN|
-|企业网络 | iKuai、OpenWrt、Network |
-|商业场所 | 网吧、饭店、旅馆、酒吧、KTV |
+| 家用路由器 | TP-LINK、Xiaomi、HUAWEI |
+| 个人热点 | MiFi、DESKTOP、WIN|
+| 企业网络 | iKuai、OpenWrt、Network |
+| 商业场所 | 网吧、饭店、旅馆、酒吧、KTV |
 #### 2. 动态 SSID 生成
 每个 SSID 后附加随机数字（1200-9999）
 示例生成的 SSID："TP-LINK_5689"、"饭店_7423"
