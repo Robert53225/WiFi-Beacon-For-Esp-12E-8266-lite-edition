@@ -1,10 +1,10 @@
 # WiFi-Beacon-For-Esp-12E-8266-lite-edition
 ESP8266单片机WiFi 多信标帧广播克隆程序。/ESP8266 microcontroller's WiFi multi-beacon frame broadcast cloning program.
 ## 文件结构
-| LICENSE.txt
-| README.md
-| WiFi Beacon.c  <-- .C源文件
-| WiFi_Beacon.mix  <-- Mixly(米思奇)保存后源文件
+| LICENSE.txt  
+| README.md  
+| WiFi Beacon.c  <-- .C源文件  
+| WiFi_Beacon.mix  <-- Mixly(米思奇)保存后源文件  
 ## 部署流程
 打开你的Arudino IDE或者Mixly、其他IDE
 1.打开.c/.mixly文件
